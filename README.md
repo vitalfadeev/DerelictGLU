@@ -1,5 +1,7 @@
 # DerelictGLU
 
+Thsi is beta.
+
 ```D
 "dependencies":
 {
