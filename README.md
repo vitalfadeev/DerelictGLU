@@ -18,7 +18,13 @@ void main()
 {
     DerelictGLU.load();
 
-    ... using glu*
+    // ... using glu*
+    // gluNewTess
+    // gluTessCallback
+    // gluTessProperty
+    // gluTessNormal
+    // gluDeleteTess
+
 }
 ```
 
