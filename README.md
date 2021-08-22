@@ -12,7 +12,11 @@ Thsi is beta.
 ```D
 import derelict.opengl.glu;
 
-... using glu*
+void main()
+{
+    DerelictGLU.load();
 
+    ... using glu*
+}
 ```
 
