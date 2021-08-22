@@ -2,13 +2,15 @@
 
 Thsi is beta.
 
-```D
-"dependencies":
-{
-    "derelict-glu" : { "path" : "deps/DerelictGLU" }
-}
+dub.json
+```JSON
+    "dependencies":
+    {
+        "derelict-glu" : { "path" : "deps/DerelictGLU" }
+    },
 ```
 
+app.d
 ```D
 import derelict.opengl.glu;
 
