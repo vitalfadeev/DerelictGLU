@@ -1,0 +1,8 @@
+name "derelict-glu"
+description "A dynamic binding to the OpenGL GLUT library."
+authors "Vitaliy Fadeev"
+license "GPL3"
+targetPath "lib"
+targetName "DerelictGLU"
+//dependency "derelict-util" path="../DerelictUtil" version="*"
+//dependency "derelict-gl3"  path="../DerelictGL3" version="1.0.x"
